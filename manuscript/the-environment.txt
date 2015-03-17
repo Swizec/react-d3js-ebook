@@ -96,6 +96,7 @@ To install Grunt and the plugins we need, run:
     $ npm install --save-dev grunt-contrib-watch
     $ npm install --save-dev jit-grunt
     $ npm install --save-dev reactify
+    $ npm install --save-dev debowerify
 
 [Browserify](http://browserify.org) will allow us to write our code in modules that we can use with `require(‘foo.js’)`. Just like we would in node.js. It’s also going to concatenate the resulting module hierarchy into a single file.
 
