@@ -91,7 +91,7 @@ Marvelous.
 
 ## Making your first dataviz component - a Histogram
 
-Now that our data is loading, it’s time to start drawing.  We’ll start with a basic histogram, then add an axis, and then add an indicator for the mean value (also known as the "average").
+Now that our data is loading, it’s time to start drawing. We’ll start with a basic histogram, then add an axis, and then add an indicator for the mean value (also known as the "average").
 
 A histogram component isn't unique to our project, so we're going to build it as a standalone component. Create a new directory `src/components/Histogram/`, with an empty `index.jsx` file.
 
