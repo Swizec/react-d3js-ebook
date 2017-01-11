@@ -1,9 +1,10 @@
 introduction.txt
 simpler-environment.md
 the-meat-start.txt
-the-meat.txt
+the-new-meat.md
 animation.md
 animating-react-redux.txt
-using-canvas.md
+using-canvas.txt
 conclusion.txt
-appendix.txt
+appendixA.md
+appendixB.txt
