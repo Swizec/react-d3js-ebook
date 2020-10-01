@@ -1,2 +1,2 @@
 # react-d3js-ebook
-This is a baby project, things will show up soon.
+This is a mini-project, things will show up soon as good things take sometime.
